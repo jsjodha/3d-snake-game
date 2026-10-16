@@ -1,0 +1,6 @@
+{
+  "name": "Ouroboros 3D: Cyber Snake Arena",
+  "description": "High-octane 3D snake combat in a neon cyber arena with upgrades, combo multipliers, synth audio, cross-platform leaderboards, and offline sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
